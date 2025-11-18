@@ -117,9 +117,7 @@ platforms:
     name: "金十数据"
   - id: "fastbull"
     name: "快讯通"
-    - id: "eastmoney"
-    name: "东方财富"
-
+   
   # === 社交/短视频/娱乐类 ===
   - id: "weibo"
     name: "微博"
